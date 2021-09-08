@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I play games, listen songs and go to the GYM very often.**
 
+<br>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -77,6 +79,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 <br>
+
 ## 📊 My Github Stats
 
   <br/>
@@ -93,7 +96,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-## Connect with me:
+## 📫 Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/abhi-patel-76a297218"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
