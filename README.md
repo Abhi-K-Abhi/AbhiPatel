@@ -98,12 +98,12 @@ Here are some ideas to get you started:
 ## 📫 Connect with me:
 <p align="left">
     
-<a href = "https://mail.google.com/mail/u/0/#inbox?compose=new"><img src="https://img.icons8.com/color/48/000000/gmail--v2.png"/></a>
-<a href = "https://www.linkedin.com/in/abhi-patel-76a297218"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/itS_abhi__007"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/it_s.abhi_007/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://www.facebook.com/profile.php?id=100047104387205"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img title = "abhipatel120801@gmail.com" src="https://img.icons8.com/color/48/000000/gmail--v2.png"/></a>
+<a href = "https://www.linkedin.com/in/abhi-patel-76a297218" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/itS_abhi__007" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/it_s.abhi_007/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100047104387205" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
 </p>
 
