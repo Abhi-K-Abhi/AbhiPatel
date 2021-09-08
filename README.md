@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhi</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
- 
+<img src="C:\Users\abhip\OneDrive\Desktop\WT\PICS\WhatsApp Image 2021-09-07 at 9.47.27 AM (1)">
 
 ## 🙋‍♂️ About Me
 
