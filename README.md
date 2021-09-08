@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **[Live Flight Tracker]**
 
-- 📊 I’m cdone with **C  C++  Python  HTML  CSS  JS  Bootstrape.**
+- 📊 I’m done with **C  C++  Python  HTML  CSS  JS  Bootstrape.**
 
 <!-- (https://covid-19-tracker-e4bda.web.app/)** -->
 
