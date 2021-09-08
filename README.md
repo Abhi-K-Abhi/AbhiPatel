@@ -97,7 +97,8 @@ Here are some ideas to get you started:
 
 ## 📫 Connect with me:
 <p align="left">
-
+    
+<a href = "https://mail.google.com/mail/u/0/#inbox?compose=new"><img src="https://img.icons8.com/color/48/000000/gmail--v2.png"/></a>
 <a href = "https://www.linkedin.com/in/abhi-patel-76a297218"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/itS_abhi__007"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/it_s.abhi_007/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
