@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhi</h1>
-<img src="C:\Users\abhip\OneDrive\Desktop\WT\PICS\WhatsApp Image 2021-09-07 at 9.47.27 AM (1)" width="20px">
+<img src="https://drive.google.com/file/d/1Tr2I5F85hJYBAr4gfTNtVkGFi9AwUcaz/view?usp=sharing width="20px">
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
