@@ -75,7 +75,8 @@ Here are some ideas to get you started:
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhi Patel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhipatel1281&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+<br>
+<br>
 ## 📊 My Github Stats
 
   <br/>
