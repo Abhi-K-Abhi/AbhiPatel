@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhi</h1>
 <br>
 
-<h3 align="center">I'm a passionate Full Stack Web Developer from India.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h3>
+<h3 align="center">I'm full-time Student, part-time Developer & all-time Gamer.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h3>
 <br>
 
 ## 🙋‍♂️ About Me
