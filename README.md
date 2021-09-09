@@ -1,10 +1,15 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhi</h1>
-<!-- <img src="https://drive.google.com/file/d/1Tr2I5F85hJYBAr4gfTNtVkGFi9AwUcaz/view?usp=sharing" width="20px"> -->
+<hr align="center" width="200px">
+<br>
+
 <h3 align="center">I'm a passionate Full Stack Web Developer from India.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h3>
+<br>
 
 ## 🙋‍♂️ About Me
+
+<hr>
 
 - 🔭 I’m currently working on **[Live Flight Tracker]**
 
@@ -26,6 +31,8 @@
 
 ## 🚀 Languages and Tools:
 
+<hr align="left" width="350px">
+<br>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
@@ -51,7 +58,8 @@
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 <br/>
-
+<br>
+<hr align="left" width="250px">
 <br>
 <p align="center">
     <a href="https://github.com/abhipatel1281/github-readme-streak-stats">
@@ -63,8 +71,11 @@
 
 ## 📊 My Github Stats
 
+<hr align="left" width="350px">
   <br/>
     <a href="https://github.com/abhipatel1281/github-readme-stats"><img title="Abhi Patel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhipatel1281&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <hr align="left" width="250px">
+    <br>
   <a href="https://github.com/abhipatel1281/github-readme-stats"><img title="abhipatel1281's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhipatel1281&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <br>
@@ -73,11 +84,17 @@
 <br/>
 <br/>
 
+<hr align="left" width="350px">
+<br>
 <a href="https://github.com/abhipatel1281/github-readme-activity-graph"><img alt="Abhi Patel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhipatel1281&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
+<br>
 
 ## 📫 Connect with me:
+
+<hr align="left" width="350px">
+<br>
 <p align="left">
     
 <a href = "https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img title = "abhipatel120801@gmail.com" src="https://img.icons8.com/color/48/000000/gmail--v2.png"/></a>
@@ -86,10 +103,16 @@
 <a href = "https://www.instagram.com/it_s.abhi_007/" target="_blank"><img title = "it_s.abhi_007" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA" target="_blank"><img title = "AbhiPatel-ohhknow" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href = "https://www.facebook.com/profile.php?id=100047104387205" target="_blank"><img title = "Abhi Patel" src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href="https://www.snapchat.com/" target="_blank"><img title = "Abhi Patel" src="https://img.icons8.com/color/48/000000/snapchat-circled-logo--v2.png"/></a>
+<a href="https://www.snapchat.com/" target="_blank"><img title = "Abhi Patel (abhi120801)" src="https://img.icons8.com/color/48/000000/snapchat-circled-logo--v2.png"/></a>
+<a href="https://github.com/abhipatel128" target="_blank"><img title = "Abhi Patel (abhipatel1281)" src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
 </p>
 
+<br>
+
 ## ❤ Views and Followers
+
+<hr align="left" width="350px">
+<br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abhipatel1281">
 </a>
