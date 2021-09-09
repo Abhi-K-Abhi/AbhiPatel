@@ -72,10 +72,8 @@
   <br/>
   <br>
   <b>Note: </b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <br/>
 <br/>
-
 <hr align="left" width="450px">
 <br>
 <a href="https://github.com/Abhi-K-Abhi/github-readme-activity-graph"><img alt="Abhi Patel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhi-K-Abhi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
@@ -84,9 +82,7 @@
 <br>
 
 ## 📫 Connect with me:
-
-<p align="left">
-    
+<p align="left">    
 <a href = "https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img title = "abhipatel120801@gmail.com" src="https://img.icons8.com/color/48/000000/gmail--v2.png"/></a>
 <a href = "https://www.linkedin.com/in/abhi-patel-76a297218" target="_blank"><img title = "Abhi Patel" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/itS_abhi__007" target="_blank"><img title = "@itS_abhi__007" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
