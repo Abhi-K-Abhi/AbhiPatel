@@ -68,8 +68,6 @@
 
   <br/>
     <a href="https://github.com/Abhi-K-Abhi/github-readme-stats"><img title="Abhi Patel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhi-K-Abhi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <hr align="left" width="450px">
-    <br>
   <a href="https://github.com/abhipatel1281/github-readme-stats"><img title="Abhi-K-Abhi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-K-Abhi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <br>
